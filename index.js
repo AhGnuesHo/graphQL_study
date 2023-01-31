@@ -1,1 +1,2 @@
-console.log("Starting!!!d!");
+import { database } from "./database.js";
+console.log(database);
